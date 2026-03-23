@@ -1,0 +1,4 @@
+interface:
+  display_name: "ClawTeam Dispatcher"
+  short_description: "Dispatch natural-language tasks to ClawTeam."
+  default_prompt: "Use $clawteam to route this task into a ClawTeam agent or template team."
